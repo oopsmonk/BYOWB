@@ -92,7 +92,7 @@ I'm a [lexicographer][1]. I make [dictionaries][2]. And my job as a lexicographe
 
 As long as you get the file output from `WBBuilder.py`, you can:
 
-- Put it on GitHub 
+- Put it on GitHub, like [example.md](https://github.com/oopsmonk/BYOWB/blob/master/example.md)  
 - Use [pandoc](http://pandoc.org/getting-started.html) convert markdown file into HTML, Microsoft Word, PDF, EPUB..etc. 
 - [Use Sublime Text 3 to preview](http://oopsmonk.github.io/blog/2015/08/12/markdown-preview-use-sublime-text-3/)  
 
