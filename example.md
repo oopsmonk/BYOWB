@@ -1,0 +1,33 @@
+#Article Title    
+  
+Video content:    
+  
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pMUv6UWkuWw " target="_blank">  
+<img src="http://img.youtube.com/vi/pMUv6UWkuWw/0.jpg" alt="" width="360" border="10" />  
+</a>    
+  
+Audio content:    
+  
+<audio src="http://libsyn.com/media/eslpod/ESLPod1127.mp3" controls preload>  
+<a href="http://libsyn.com/media/eslpod/ESLPod1127.mp3" target="_blank">Click to Listen</a>  
+</audio>      
+  
+  
+I'm a [lexicographer][1]. I make [dictionaries][2]. And my job as a lexicographer is to try to put all the words possible into the dictionary. My job not to decide what a word is; that is your job.    
+  
+我是一個[字典編纂師][3]， 而我編製[字典][4]， 身為字典編纂師我的工作是─ 盡可能試著把所有可行的 字彙收進字典裡， 我的工作不是決定什麼才是一個字， 那是你的工作.    
+  
+######  
+
+[1]: http://cdict.net/q/lexicographer "辭典編纂者"    
+[2]: http://cdict.net/?w=dictionary "詞典,字典"    
+[3]: http://www.oxfordlearnersdictionaries.com/definition/english/lexicographer "/ˌleksɪˈkɒɡrəfə(r)/ n. a person who writes and edits dictionaries"    
+[4]: http://www.oxfordlearnersdictionaries.com/definition/english/dictionary "a book that explains the words that are used in a particular subject"    
+######  
+
+| Word | Definition |  
+|--------|--------|  
+|[lexicographer](http://cdict.net/q/lexicographer) | 辭典編纂者|  
+|[dictionaries](http://cdict.net/?w=dictionary) | 詞典,字典|  
+|[字典編纂師](http://www.oxfordlearnersdictionaries.com/definition/english/lexicographer) | /ˌleksɪˈkɒɡrəfə(r)/ n. a person who writes and edits dictionaries|  
+|[字典](http://www.oxfordlearnersdictionaries.com/definition/english/dictionary) | a book that explains the words that are used in a particular subject|  
