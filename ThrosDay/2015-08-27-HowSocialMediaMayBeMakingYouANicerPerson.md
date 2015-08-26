@@ -1,4 +1,4 @@
-#How Social Media May Be Making You a Nicer Person  
+#[How Social Media May Be Making You a Nicer Person](https://github.com/oopsmonk/BYOWB/blob/myESL/ThrosDay/2015-08-27-HowSocialMediaMayBeMakingYouANicerPerson.md)  
 
 With the rise of social media has come the concern that we are becoming less and less able to relate to each other in a [_humane_][1] way. Social psychologists worry, further, that use of online media can lead to "Slacktivism," a lazy and ineffective way to bring about social change. [Coined][2] by [Evgeny Morozov in 2010 (link is external)](http://www.npr.org/templates/story/story.php?storyId=104302141) and used interchangeably with "Clicktivism," the concept refers to the fact that it's much easier to sign onto a cause online and then do nothing in the real world to follow up on that cause. You might, according to this thinking, "Like" a [Facebook](https://www.psychologytoday.com/basics/social-networking) page devoted to recycling in your community but when it comes to taking out the trash, not change your old habits at all.  
 

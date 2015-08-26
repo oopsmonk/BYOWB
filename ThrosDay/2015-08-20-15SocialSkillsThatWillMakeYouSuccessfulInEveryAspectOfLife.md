@@ -1,4 +1,4 @@
-#15 Social Skills That Will Make You Successful In Every Aspect Of Life  
+#[15 Social Skills That Will Make You Successful In Every Aspect Of Life](https://github.com/oopsmonk/BYOWB/blob/myESL/ThrosDay/2015-08-20-15SocialSkillsThatWillMakeYouSuccessfulInEveryAspectOfLife.md)  
   
 In a world where technology is increasing our capacity to connect with people worldwide, it is also [diminishing][1] our ability to effectively connect with people in person. Just like learning how to cook, develop software, or play a sport; the ability to connect with others is a skill and you can learn how to do it more effectively. Learning the social skills necessary to connect with others will help you be more successful in every aspect of your life. Here are 15 social skills you can develop to be more [charismatic][2]:  
   

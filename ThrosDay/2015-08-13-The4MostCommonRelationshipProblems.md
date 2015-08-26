@@ -1,4 +1,4 @@
-#The 4 Most Common Relationship Problems -- And How To Fix Them  
+#[The 4 Most Common Relationship Problems -- And How To Fix Them](https://github.com/oopsmonk/BYOWB/blob/myESL/ThrosDay/2015-08-13-The4MostCommonRelationshipProblems.md)  
   
 Relationship problems. Everybody has them. And sometimes you have them over and over and over.  
   
