@@ -58,7 +58,7 @@ def genVocaDict(inFile):
     return (article_lines, ref_lines, voca_dict)
 
 def saveFile(file_name, article, ref_lines, dict_table):
-    file_text='  \n'.join(article) +'  \n' + g_separator + '\n' + '  \n'.join(ref_lines)+ '  \n' + g_separator + '\n'
+    file_text='\n'.join(article) +'\n' + g_separator + '\n' + '\n'.join(ref_lines)+ '\n' + g_separator + '\n'
     file_text+= g_header + g_column
 
     for key in range(1, len(dict_table)+1):
@@ -68,6 +68,7 @@ def saveFile(file_name, article, ref_lines, dict_table):
     #update markdown file.  
     with open(file_name, "w") as f:
         f.write(file_text)
+    print("done : {}".format(file_name))
 
 def buildWB(file_path, title, dict_table):
     wb_text = '_' + file_path + '_  \n' + '__'+ title.replace('#','') + '__  \n\n'
@@ -87,6 +88,8 @@ def saveWB(file_name, wb_table):
     with open(file_name, "w") as f:
         f.write(wb_table)
 
+    print("Save word banks to : {}".format(file_name))
+
 def getMarkdownlist(dirPath):
     flist=[]
     for root, directories, filenames in os.walk(dirPath):
@@ -101,9 +104,9 @@ def main():
     reload(sys)
     sys.setdefaultencoding('utf-8')
 
-    parser = argparse.ArgumentParser(description='Vocabulary builder for language learning.')
+    parser = argparse.ArgumentParser(description='The vocabulary builder for language learning.')
     parser.add_argument('-i', '--input', dest="input", help='Input a markdown file or a folder', default=None, required=True)
-    parser.add_argument('-b', '--bank', dest="bank", help='Save word bank to another file', default=None)
+    parser.add_argument('-b', '--bank', dest="bank", help='Build word bank to a single file', default=None)
     args = parser.parse_args()
 
     if os.path.isfile(args.input):
